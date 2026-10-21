@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Computer%20Science-007acc?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pathway-MUFY%20%7C%20Monash%20Malaysia-0056b3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pathway-MUFY%20%7C%20Monash%20University-0056b3?style=for-the-badge" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 
 ### 📌 Current Portfolio Projects
 
-- 🌐 **[My First Web Page](https://github.com/BryanWANG-core/my-first-site)** — A live website built with HTML/CSS and hosted via GitHub Pages.
+- 🌐 **[My First Web Page](coming soon) - A website to store all of the IGCSE notes I found useful throughout my IGCSE Journeys
 
 ---
 
